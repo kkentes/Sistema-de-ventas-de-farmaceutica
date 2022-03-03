@@ -1,0 +1,19 @@
+
+
+
+    GERENTES
+
+   
+    G1: G12536                    CONTRSEÑA: 123456
+   
+    G2: G26352                    CONTRASEÑA: 123456
+
+
+
+
+    EMPLEADOS
+
+    
+    E1: E18957                    CONTRASEÑA: 123456
+
+    E2: E24556                    CONTRASEÑA: 123456

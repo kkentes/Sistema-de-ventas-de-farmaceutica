@@ -1,0 +1,34 @@
+Nombre              Wendy
+Apellido            Olmedo
+Nombre de usuario   E15185
+Cargo               Empleado                                         Ingresado
+Direccion           Colonia Las Lomas,pje "k", #33, Ciudad delgado
+Telefono            75557644
+Contraseña          olmendy82
+
+--------------------------------------------------------
+Edwin
+Fernandez
+E19886
+Empleado                                                             Ingresado
+Colonia Vsita al Lago, block c, pje "g", #3, Ilopango
+62674929
+fered745
+
+---------------------------------------------------------
+Ivan
+Monterola
+G45892
+Gerente
+Residencial Las brisas, pje "p", #15, San Salvador
+77851173
+monterovan19
+
+----------------------------------------------------------
+Carla
+Mejia
+E84123
+Empleado
+Colonia Sierra Morena, block k, casa #205, Soyapango
+61432931
+carla156

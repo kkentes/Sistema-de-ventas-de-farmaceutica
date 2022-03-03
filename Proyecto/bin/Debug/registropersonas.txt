@@ -1,0 +1,49 @@
+Gerente
+G12536
+Mario
+suarez
+123456
+apopa
+52362536
+Gerente
+G26352
+Carlos
+Hernandez
+123456
+San martin
+75322052
+Empleado
+E18957
+Rodrigo
+alvarado
+123456
+Santa tecla
+22903625
+Empleado
+E24556
+Josue
+Fuentes
+123456
+Soyapango
+72453292
+Gerente
+G12345
+Juan
+Hernandez
+123456
+San Salvador
+76589721
+Empleado
+E15185
+Wendy
+Olmedo
+olmendy82
+Colonia Las Lomas,pje "k", #33, Ciudad delgado
+75557644
+Gerente
+G45892
+Ivan
+Monterola
+monterovan19
+Residencial Las brisas, pje "p", #15, San Salvador
+77851173

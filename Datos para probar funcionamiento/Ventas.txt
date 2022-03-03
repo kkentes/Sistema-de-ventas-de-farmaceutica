@@ -1,0 +1,37 @@
+Cod Empleado        E15578
+Nombre cliente      Roberto Diaz
+Cod Producto        AC45698
+Precio producto     0.50                               Ingresado
+Cod venta           V45612
+cantidad vendida    7
+Descuentos          0.0
+Total venta         3.5
+
+----------------------------------------------------
+E19954
+Kevin Bolaños
+MT46512
+1.2
+V78916                                                 Ingresado
+5
+0.06
+5.7
+
+------------------------------------------------------
+E65314
+Gabriela Diaz
+AS71256
+0.20
+V14789
+6
+0.05
+1.14
+
+-------------------------------------------------------
+E84178
+Diego Urbina
+LT12546
+0.75
+V72596
+2
+1.37

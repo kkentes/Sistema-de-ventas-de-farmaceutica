@@ -1,0 +1,26 @@
+Codigo producto     AC45698
+Nombre producto     Acetaminofen
+Clasificacion       Analgesico            Ingresado
+Precio              0.50
+descuento           0.0
+
+--------------------------------------
+LT12546
+Loratadina
+Alergia                                   Ingresado
+0.75 
+0.09
+
+---------------------------------------
+AS71256
+Aspirina
+Analgesico
+0.20
+0.05
+
+--------------------------------------
+MT46512
+Metamizol
+Analgesico
+1.2
+0.06

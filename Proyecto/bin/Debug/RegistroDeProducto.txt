@@ -1,0 +1,10 @@
+AC45698
+Acetaminofen
+Analgesico
+0.50
+0.0
+LT12546
+Loratadina
+Alergia
+0.75
+0.09

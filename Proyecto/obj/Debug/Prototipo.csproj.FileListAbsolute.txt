@@ -1,0 +1,117 @@
+C:\Users\PC\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\PC\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\PC\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Login.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2E.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2G.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuG.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Error.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RP.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuE.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVC.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVD.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVE.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RE.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RV.resources
+C:\Users\PC\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.ACD.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.ACD.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2E.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2G.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Error.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Login.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuE.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuG.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.MVC.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.MVD.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.MVE.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Perfil.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.RE.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.RP.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.RV.resources
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Elias Bayona\Documents\Proyecto\Proptotipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.ACD.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2E.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida2G.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Error.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Login.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Bienvenida.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuE.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MenuG.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVC.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVD.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.MVE.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Perfil.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RE.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RP.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.RV.resources
+C:\Users\Emerson Portillo\Desktop\Proptotipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Prototipo.exe.config
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Prototipo.exe
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Prototipo.pdb
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.ACD.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida2E.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida2G.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Error.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Login.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.MenuE.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.MenuG.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.MVC.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.MVD.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.MVE.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.RE.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.RP.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.RV.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.exe
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Prototipo.pdb
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Prototipo.exe.config
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Prototipo.exe
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Prototipo.pdb
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.ACD.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida2E.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida2G.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Error.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Login.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Bienvenida.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.MenuE.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.MenuG.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.MVC.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.MVD.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.MVE.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.RE.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.RP.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.RV.resources
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.exe
+C:\Users\kevin\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\Debug\Prototipo.pdb
